@@ -1,0 +1,34 @@
+{
+  "name": "cordova-plugin-vha-clipboard",
+  "version": "0.010.00",
+  "description": "https://github.com/VersoSolutions/CordovaClipboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "neo",
+  "license": "ISC",
+  "cordova": {
+    "id": "cordova-plugin-vha-clipboard",
+    "platforms": [
+      "ios",
+      "android",
+      "wp8"
+    ]
+  },
+  "keywords": [
+    "clipboard",
+    "copy",
+    "paste",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android",
+    "cordova-wp8"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ]
+}
